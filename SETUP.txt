@@ -1,0 +1,9 @@
+THE SLAYGENCY - ENQUIRY FORM SETUP
+
+1. Open index.html using Live Server or a hosted website.
+2. Submit a test enquiry with your own details.
+3. Check enquiry.theslaygency@gmail.com for the FormSubmit activation email. Check spam too.
+4. Follow the activation link, then submit a second test enquiry and confirm receipt.
+5. This uses FormSubmit, a third-party form processing service; update your website privacy notice before launch.
+6. FormSubmit may enforce spam checks or additional verification. Test after publishing.
+7. No DNS settings are needed for a regular @gmail.com address.
